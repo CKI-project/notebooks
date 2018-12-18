@@ -1,0 +1,9 @@
+matplotlib
+pandas
+pandas-datareader
+xmltodict
+bs4
+requests
+python-dateutil
+PyYAML
+python-gitlab
